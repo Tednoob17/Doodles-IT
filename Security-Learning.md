@@ -1,6 +1,10 @@
 ## L1nk
 	
-[l1nk]! (/shots/l1nk.jpg)	
+<img align="left" alt="Project logo" src="./shots/tlogo.png" width=150 />
+
+# L1nk 
+
+   All in one click .	
 ### Blog
 + https://hexpresso.wordpress.com/ 
 + http://www.hexpresso.fr/ 
